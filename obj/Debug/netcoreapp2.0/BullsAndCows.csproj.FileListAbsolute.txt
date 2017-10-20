@@ -1,0 +1,10 @@
+c:\Users\grubio\Documents\Projects\BullsAndCows\bin\Debug\netcoreapp2.0\BullsAndCows.deps.json
+c:\Users\grubio\Documents\Projects\BullsAndCows\bin\Debug\netcoreapp2.0\BullsAndCows.runtimeconfig.json
+c:\Users\grubio\Documents\Projects\BullsAndCows\bin\Debug\netcoreapp2.0\BullsAndCows.runtimeconfig.dev.json
+c:\Users\grubio\Documents\Projects\BullsAndCows\bin\Debug\netcoreapp2.0\BullsAndCows.dll
+c:\Users\grubio\Documents\Projects\BullsAndCows\bin\Debug\netcoreapp2.0\BullsAndCows.pdb
+c:\Users\grubio\Documents\Projects\BullsAndCows\obj\Debug\netcoreapp2.0\BullsAndCows.csproj.CoreCompileInputs.cache
+c:\Users\grubio\Documents\Projects\BullsAndCows\obj\Debug\netcoreapp2.0\BullsAndCows.AssemblyInfoInputs.cache
+c:\Users\grubio\Documents\Projects\BullsAndCows\obj\Debug\netcoreapp2.0\BullsAndCows.AssemblyInfo.cs
+c:\Users\grubio\Documents\Projects\BullsAndCows\obj\Debug\netcoreapp2.0\BullsAndCows.dll
+c:\Users\grubio\Documents\Projects\BullsAndCows\obj\Debug\netcoreapp2.0\BullsAndCows.pdb
